@@ -10,12 +10,27 @@ h3 {
     margin-top:20px;
     margin-bottom:5px;
     margin-left:40px;
+
 }
 
 table {
     border-top:2px solid red;
     border-bottom:2px solid red;
     margin-left:40px;
-
+    padding:5px;
+    font-size:12px;
 }
 
+td.col1 {
+    text-align:right;
+}
+
+input.hp {width:35px;}
+
+input {border:1ps solid #dddddd;}
+
+select {border:1ps solid #dddddd;}
+
+#file {border:1ps solid #ffffff;}
+
+#intro {vertical-align:top;}
